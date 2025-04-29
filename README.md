@@ -77,7 +77,8 @@ REG NO:
  print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT -RARP
-![2](https://github.com/user-attachments/assets/928699ed-9d5f-4254-920d-b67b9dbd47ae)
+![Screenshot 2025-04-29 130518](https://github.com/user-attachments/assets/43ec84d2-005d-4c5a-b15a-f3aa0c73254b)
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
